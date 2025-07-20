@@ -474,7 +474,6 @@
 // UNIQUE HELMET BASES
 [Type] == "Siege Helmet" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Ezomyte Burgonet" && [Rarity] == "Unique" # [StashItem] == "true"
-[Type] == "Silken Hood" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Bone Circlet" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Necromancer Circlet" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Solaris Circlet" && [Rarity] == "Unique" # [StashItem] == "true"
