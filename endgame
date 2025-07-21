@@ -426,7 +426,7 @@
 
 // UNIQUE RING BASES
 [Type] == "Topaz Ring" && [Rarity] == "Unique" # [StashItem] == "true"
-[Type] == "Saphire Ring" && [Rarity] == "Unique" # [StashItem] == "true"
+[Type] == "Sapphire Ring" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Moonstone Ring" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Amethyst Ring" && [Rarity] == "Unique" # [StashItem] == "true"
 [Type] == "Steel Ring" && [Rarity] == "Unique" # [StashItem] == "true"
